@@ -1,4 +1,4 @@
-# Aplicação com JavaScript puro: filtragem de posts e scroll infinito
+# Pure JavaScript application: post filtering and infinite scroll
 
 This project was made with HTML, CSS and pureJS.
 
